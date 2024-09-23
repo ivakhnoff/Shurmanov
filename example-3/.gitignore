@@ -1,2 +1,6 @@
+*.out
+*.log
+*.tmp
+*.bin
 !Kazino-Royal.cpp
 Kazino-Royal*
